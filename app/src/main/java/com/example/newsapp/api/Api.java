@@ -10,7 +10,7 @@ import retrofit2.http.Query;
 public interface Api {
 
     @GET("top-headlines")
-    @Headers({"Cache-Control: no-cache"})
+    @Headers({"Cache-Control: no-cache",  "X-No-Cache: true"})
     Call<News> getNews(
 
             @Query("country") String country,
@@ -19,7 +19,7 @@ public interface Api {
     );
 
     @GET("everything")
-    @Headers({"Cache-Control: no-cache"})
+    @Headers({"Cache-Control: no-cache", "X-No-Cache: true"})
     Call<News> getNewsSearch(
 
             @Query("q") String keyword,
