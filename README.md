@@ -12,7 +12,7 @@
 
 -[Technologies](#technologies)
 
--[How to Use](#how-to-use)
+-[How It Works](#how-it-works)
 
 ---
 
@@ -37,6 +37,8 @@ Below you can see how app works.
 
 -[Pretty Time library](https://github.com/ocpsoft/prettytime)
 
-## How To Use 
+## How It Works
 
-![Imgur](https://i.imgur.com/Wed8LiT.mp4)
+By below link you can watch how application works.
+
+[Link](https://www.youtube.com/watch?v=M9m7LrktuYM&feature=youtu.be)
