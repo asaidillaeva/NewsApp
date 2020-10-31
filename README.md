@@ -1,7 +1,6 @@
 # NewsApp
 
-![Project Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.virtuos.com%2Fw-digital%2F&psig=AOvVaw07OOYVYCk4vYKtTiRmTOvd&ust=1604217198685000&source=images&cd=vfe&ved=2ahUKEwjjnbfzrN7sAhUWxioKHZcXBxAQjRx6BAgAEAc)
-
+![Project Logo](https://imgur.com/a/uTZ7t1D)
 > This project for class CS303: Mobile Application Development class 
 ---
 ### Table of Contents 
