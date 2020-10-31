@@ -1,13 +1,14 @@
 # NewsApp
 
-![Project Logo] 
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.virtuos.com%2Fw-digital%2F&psig=AOvVaw07OOYVYCk4vYKtTiRmTOvd&ust=1604217198685000&source=images&cd=vfe&ved=2ahUKEwjjnbfzrN7sAhUWxioKHZcXBxAQjRx6BAgAEAc)
+![Project Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.virtuos.com%2Fw-digital%2F&psig=AOvVaw07OOYVYCk4vYKtTiRmTOvd&ust=1604217198685000&source=images&cd=vfe&ved=2ahUKEwjjnbfzrN7sAhUWxioKHZcXBxAQjRx6BAgAEAc)
 
 > This project for class CS303: Mobile Application Development class 
 ---
 ### Table of Contents 
 -[Description](#descripion)
+
 -[Technologies](#technologies)
+
 -[How to Use](#how-to-use)
 
 ---
@@ -21,9 +22,13 @@ Below you can see how app works.
 
 ## Technologies 
 -Java
+
 -Room
+
 -Retrofit
+
 -[Glide library](https://github.com/bumptech/glide) 
+
 -[Pretty Time library](https://github.com/ocpsoft/prettytime)
 
 ## How To Use 
