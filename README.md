@@ -1,6 +1,6 @@
 # NewsApp
 
-(![Logo](https://i.imgur.com/YtrCOnT.png))
+![Logo](https://i.imgur.com/YtrCOnT.png)
 
 > This project for class CS303: Mobile Application Development class 
 
