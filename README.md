@@ -39,4 +39,4 @@ Below you can see how app works.
 
 ## How To Use 
 
-![Video](https://i.imgur.com/Wed8LiT.mp4)
+![Imgur](https://i.imgur.com/Wed8LiT.mp4)(https://youtu.be/M9m7LrktuYM)
