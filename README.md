@@ -38,3 +38,5 @@ Below you can see how app works.
 -[Pretty Time library](https://github.com/ocpsoft/prettytime)
 
 ## How To Use 
+
+![Video](https://i.imgur.com/Wed8LiT.mp4)
