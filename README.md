@@ -1,9 +1,13 @@
 # NewsApp
 
-![Project Logo](https://imgur.com/a/uTZ7t1D)
+([Logo](https://i.imgur.com/YtrCOnT.png))
+
 > This project for class CS303: Mobile Application Development class 
+
 ---
+
 ### Table of Contents 
+
 -[Description](#descripion)
 
 -[Technologies](#technologies)
@@ -11,7 +15,9 @@
 -[How to Use](#how-to-use)
 
 ---
+
 ## Description
+
 Nes Application is simple application to read news. I used [newsapi](https://newsapi.org/) to get news. 
 The app also works offline if it was used while connected to the Internet. I used the Room DB for this. 
 Each time the user updates the news, they save it in the room and delete the previous ones, if any. 
@@ -20,6 +26,7 @@ Also in app you can search news and read them. when you open the news it opens i
 Below you can see how app works.
 
 ## Technologies 
+
 -Java
 
 -Room
