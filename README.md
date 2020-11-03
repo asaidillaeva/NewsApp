@@ -29,6 +29,8 @@ Below you can see how app works.
 
 -Java
 
+-Kotlin
+
 -Room
 
 -Retrofit
